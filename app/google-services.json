@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861783410555",
+    "project_id": "pricestracker-980aa",
+    "storage_bucket": "pricestracker-980aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861783410555:android:f659579a4af5b060691fde",
+        "android_client_info": {
+          "package_name": "com.example.pricestracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB93sJ6l9TL-yjFMlXoBX6N9Ezugqlo5W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

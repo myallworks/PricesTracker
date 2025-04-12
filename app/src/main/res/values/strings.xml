@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PricesTracker</string>
+    <string name="search">Search</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="logout">Logout</string>
+    <string name="authentication_failed">Authentication failed</string>
+    <string name="biometric_auth_title">Authenticate</string>
+    <string name="biometric_auth_subtitle">Verify your identity to continue</string>
+    <string name="cancel">Cancel</string>
+    <string name="login_title">Login to Price Tracker</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me (Biometric login)</string>
+    <string name="login">Login</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="invalid_credentials">Invalid username or password</string>
+</resources>
